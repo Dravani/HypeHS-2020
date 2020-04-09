@@ -1,7 +1,13 @@
 div {
     text-align: center;
-    background-color: #66c2ff;
     border-radius: 25px;
+}
+
+div.a {
+    background-color: #66c2ff;
+}
+div.b {
+    background-color: #48522c;
 }
 
 img {
@@ -11,3 +17,4 @@ img {
 body {
     background-color: darkgray;
 }
+
