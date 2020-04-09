@@ -1,0 +1,13 @@
+div {
+    text-align: center;
+    background-color: #66c2ff;
+    border-radius: 25px;
+}
+
+img {
+    border-radius: 100px;
+}
+
+body {
+    background-color: darkgray;
+}
