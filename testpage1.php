@@ -13,7 +13,9 @@
     <div class="b">
     
         <h1>This is a test for having multiple pages</h1>
-        <a href="index.php">Return to homepage</a>
+        <a href="index.php">Return to Home Page.</a>
+        <br>
+        <a href="testpage2.php">Move to Test Page 2.</a>
 
         
         <div class="a c">
@@ -37,7 +39,7 @@
             
         
         </div>
-        
+
 
         
     </div>
