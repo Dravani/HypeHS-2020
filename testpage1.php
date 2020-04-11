@@ -11,8 +11,9 @@
 <body>
 
     <div class="b">
+    
         <h1>This is a test for having multiple pages</h1>
-        <a href="homepage.html">Return to homepage</a>
+        <a href="index.php">Return to homepage</a>
 
         
         <div class="a c">
@@ -34,8 +35,11 @@
             <a href="https://www.sitepoint.com/how-to-install-php-on-windows/" target="_blank">
                 https://www.sitepoint.com/how-to-install-php-on-windows/</a>
             
+        
         </div>
+        
 
+        
     </div>
     
 
