@@ -3,12 +3,26 @@ margin:0;
 padding:0;
 }
 
+img {
+
+    border: 5px solid blue;
+    border-radius: 3%;
+    margin: 5px;
+
+}
+
+.container1 {
+    display: flex;
+}
+
+
 #header {
 
     width:100%;
-    height: 110px;
+    height: 25%;
     padding: 0px;
     margin: 0px;
     background-color: rgb(50, 50, 70);
+    align-content: center;
     
 }
