@@ -16,7 +16,7 @@
 
         function myTimer() {
         var d = new Date();
-        document.getElementById("retard").innerHTML = document.getElementById("retard").innerHTML + "<h1>" + d + "</h1>";
+        //document.getElementById("retard").innerHTML = document.getElementById("retard").innerHTML + "<h1>" + d + "</h1>";
         }
     </script>
 
@@ -26,7 +26,7 @@
     <?php
     $var1="WELCOME TO THE SCRIPT TESTING PAGE!";
     echo "<div class='a'><h1>$var1</h1></div>";
-    ?>  
+    ?>
 
     <div class="b" id="retard"><h1>Timetable:</h1><div>
 
