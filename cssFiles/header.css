@@ -30,6 +30,10 @@
     margin: 3px;
 }
 
+.hidden {
+    visibility: hidden;
+}
+
 a {
     color: black;
     font-size: 150%;
