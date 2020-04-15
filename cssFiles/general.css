@@ -1,0 +1,27 @@
+html, body, h1 {
+    margin:0;
+    padding:0;
+}
+
+body {
+    background-color: darkgray;
+}
+
+img {
+
+    border: 5px solid blue;
+    border-radius: 3%;
+    margin: 5px;
+    flex-grow: 1;
+}
+
+.container1 {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+
+#body {
+    /*justify-content: center;*/
+}   
