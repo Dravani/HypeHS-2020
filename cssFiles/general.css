@@ -21,7 +21,6 @@ img {
     flex-wrap: wrap;
 }
 
-
-#body {
-    /*justify-content: center;*/
-}   
+a:hover{
+    text-decoration: none;
+}
