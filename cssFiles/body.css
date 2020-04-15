@@ -13,7 +13,7 @@
 }
 
 .sectiontitle {
-    
+    margin: 4px;
     width: 25%;
     text-align: center;
     background-color: teal;
@@ -23,7 +23,8 @@
 }
 
 .sectionbody {
-
+    margin: 4px;
+    min-height: 50px;
     width: 50%;
     text-align: center;
     background-color: tan;
